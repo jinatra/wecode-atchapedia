@@ -52,6 +52,7 @@
 
 `성우진`
 - SignUpView : bcrypt 암호화를 활용한 회원가입 기능 구현
+- MovieDetailView : 영화 상세 정보 조회 기능 구현
 
 `손명희`
 - CommentView : 영화 리뷰 등록 및 List comprehension을 활용한 리뷰 조회기능 구현
