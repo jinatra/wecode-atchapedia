@@ -51,7 +51,7 @@
 ## 구현 기능 및 개인 역할
 
 `성우진`
--   추후 업데이트 예정
+- SignUpView : bcrypt 암호화를 활용한 회원가입 기능 구현
 
 `손명희`
 - CommentView : 영화 리뷰 등록 및 List comprehension을 활용한 리뷰 조회기능 구현
